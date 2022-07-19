@@ -35,3 +35,5 @@ class PhotoUpdateView(UpdateView):
 
 
 
+
+
